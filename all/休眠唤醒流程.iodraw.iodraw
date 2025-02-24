@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-30" value="SBC Disable 5V1&lt;br&gt;MCU Power OFF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-33" value="SBC Disable 5V1&lt;br&gt;MCU Power OFF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="465" y="560" width="120" height="40" as="geometry" />
