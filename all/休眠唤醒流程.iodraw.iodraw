@@ -55,8 +55,8 @@
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-10" value="wake up" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="318" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KcgKAmYEJfjYX5Cx_ani-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="685" y="548" width="50" height="30" as="geometry" />
+        <mxCell id="KcgKAmYEJfjYX5Cx_ani-12" value="Check WakeUp Source" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="635" y="548" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
