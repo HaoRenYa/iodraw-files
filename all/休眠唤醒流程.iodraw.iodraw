@@ -72,6 +72,9 @@
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-16" value="SBC&amp;nbsp;&lt;br/&gt;&lt;span class=&quot;fontstyle0&quot;&gt;V1_Standby&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="528" width="120" height="277" as="geometry" />
         </mxCell>
+        <mxCell id="KcgKAmYEJfjYX5Cx_ani-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KcgKAmYEJfjYX5Cx_ani-4" target="KcgKAmYEJfjYX5Cx_ani-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
