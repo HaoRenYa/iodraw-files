@@ -76,7 +76,7 @@
           <mxGeometry x="340" y="520" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-18" value="Transport mode" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="640" width="80" height="80" as="geometry" />
+          <mxGeometry x="670" y="630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-20" value="&lt;b&gt;MCU&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="170" width="60" height="70" as="geometry" />
