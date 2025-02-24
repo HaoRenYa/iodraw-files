@@ -23,7 +23,7 @@
             <mxPoint x="16" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zz6Ax0p6_0_S97ZGMZns-1" value="SBC Active Mode" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Zz6Ax0p6_0_S97ZGMZns-1" value="SBC ACTIVE Mode" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zz6Ax0p6_0_S97ZGMZns-3" value="&lt;b&gt;DCM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
