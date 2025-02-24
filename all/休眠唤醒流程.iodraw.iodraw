@@ -179,6 +179,9 @@
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-58" value="wake up" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="420" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KcgKAmYEJfjYX5Cx_ani-59" value="&lt;b&gt;SBC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="150" width="60" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
