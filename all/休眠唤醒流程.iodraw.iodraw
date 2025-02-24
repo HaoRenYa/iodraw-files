@@ -101,6 +101,9 @@
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.983;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zz6Ax0p6_0_S97ZGMZns-1" target="KcgKAmYEJfjYX5Cx_ani-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="447" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="458" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-22" value="SBC&amp;nbsp;&lt;br/&gt;&lt;span class=&quot;fontstyle0&quot;&gt;V1_Standby&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
