@@ -7,7 +7,7 @@
         <mxCell id="Zz6Ax0p6_0_S97ZGMZns-0" value="Power ON" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zz6Ax0p6_0_S97ZGMZns-1" value="Active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zz6Ax0p6_0_S97ZGMZns-1" value="Active Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
