@@ -109,6 +109,12 @@
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-22" value="SBC&amp;nbsp;&lt;br/&gt;&lt;span class=&quot;fontstyle0&quot;&gt;V1_Standby&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="680" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="KcgKAmYEJfjYX5Cx_ani-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KcgKAmYEJfjYX5Cx_ani-26" target="Zz6Ax0p6_0_S97ZGMZns-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgKAmYEJfjYX5Cx_ani-26" value="CAN TX/RX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="495" y="428" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
