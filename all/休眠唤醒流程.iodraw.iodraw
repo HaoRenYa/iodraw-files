@@ -159,7 +159,7 @@
           <mxGeometry x="500" y="698" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-33" value="SBC Disable 5V1&lt;br&gt;MCU Power OFF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-37" value="CAN/Lin TX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="400" width="90" height="30" as="geometry" />
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgKAmYEJfjYX5Cx_ani-58" value="wake up" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="328" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
