@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-2" value="SBC Enable 5V1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcgKAmYEJfjYX5Cx_ani-1">
           <mxGeometry x="0.2414" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-32" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zz6Ax0p6_0_S97ZGMZns-1" value="SBC Active Mode" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -25,7 +25,7 @@
           <mxGeometry x="50" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
