@@ -189,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KcgKAmYEJfjYX5Cx_ani-61" value="Hard Wake&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcgKAmYEJfjYX5Cx_ani-60">
+        <mxCell id="KcgKAmYEJfjYX5Cx_ani-61" value="Hard Wake up state" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KcgKAmYEJfjYX5Cx_ani-60">
           <mxGeometry x="-0.71" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
