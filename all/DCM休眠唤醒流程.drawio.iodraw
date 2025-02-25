@@ -279,7 +279,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-94" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-93">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-94" value="进入DeepSleep Mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-93">
           <mxGeometry x="-0.1273" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
