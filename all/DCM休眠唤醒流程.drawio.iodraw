@@ -209,10 +209,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-62" value="SBC ACTIVE MODE" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="334" y="1421.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1480.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-1" value="SBC Enable VCC5V_1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="441" y="1428" width="150" height="30" as="geometry" />
+        <mxCell id="yx7a560E9U7T0l9RKrCP-1" value="SBC Enable&lt;div&gt;&amp;nbsp;VCC5V_1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="488" y="1470" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-4" target="yx7a560E9U7T0l9RKrCP-66">
           <mxGeometry relative="1" as="geometry" />
