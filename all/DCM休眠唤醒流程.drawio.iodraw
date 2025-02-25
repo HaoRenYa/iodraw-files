@@ -289,7 +289,7 @@
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-47" value="触发Polling定时中断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-46">
           <mxGeometry x="-0.3333" y="-4" relative="1" as="geometry">
-            <mxPoint x="-8" y="4" as="offset" />
+            <mxPoint x="-30" y="26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-44" value="等待Polling中断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
