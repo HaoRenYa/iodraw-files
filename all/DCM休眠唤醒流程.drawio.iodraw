@@ -316,7 +316,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-42" value="使能RTC（GPT）定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-42" value="使能RTC（GPT）定时器 和唤醒源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-44" target="yx7a560E9U7T0l9RKrCP-45">
