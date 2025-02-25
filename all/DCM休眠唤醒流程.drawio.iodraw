@@ -333,12 +333,16 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-74" target="yx7a560E9U7T0l9RKrCP-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="1990" />
+              <mxPoint x="830" y="2040" />
+              <mxPoint x="660" y="2040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-74" value="GPIO 中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx7a560E9U7T0l9RKrCP-76" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="2120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
