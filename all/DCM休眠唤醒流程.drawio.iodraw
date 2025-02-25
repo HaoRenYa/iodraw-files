@@ -272,7 +272,17 @@
           <mxGeometry x="540" y="2100" width="469" height="75" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-42" target="yx7a560E9U7T0l9RKrCP-70">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="801" y="2075" />
+              <mxPoint x="801" y="2075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx7a560E9U7T0l9RKrCP-94" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-93">
+          <mxGeometry x="-0.1273" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-42" value="使能RTC定时器 和 唤醒源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="741" y="1930" width="120" height="60" as="geometry" />
