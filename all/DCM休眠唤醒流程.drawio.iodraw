@@ -352,7 +352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-74" value="GPIO 中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="2116" width="105" height="60" as="geometry" />
+          <mxGeometry x="555" y="2116" width="75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-76" target="yx7a560E9U7T0l9RKrCP-74">
           <mxGeometry relative="1" as="geometry" />
