@@ -271,7 +271,7 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="2100" width="469" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-42" target="yx7a560E9U7T0l9RKrCP-45">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-42" target="yx7a560E9U7T0l9RKrCP-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-42" value="使能RTC定时器 和 唤醒源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -385,6 +385,9 @@
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-88" value="&lt;span class=&quot;fontstyle0&quot;&gt;Task任务开始运行&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="564" y="1635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx7a560E9U7T0l9RKrCP-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.335;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-70" target="yx7a560E9U7T0l9RKrCP-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
