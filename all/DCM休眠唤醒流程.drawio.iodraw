@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="yx7a560E9U7T0l9RKrCP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="1109" width="755" height="701" as="geometry" />
+          <mxGeometry x="520" y="1109" width="780" height="891" as="geometry" />
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="170" width="200" height="670" as="geometry" />
@@ -274,6 +274,9 @@
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-34" value="判断是否有唤醒源，以及是否需要维持唤醒" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="797.5" y="1674" width="145" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="yx7a560E9U7T0l9RKrCP-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
