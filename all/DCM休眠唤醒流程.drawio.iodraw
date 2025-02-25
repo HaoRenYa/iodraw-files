@@ -330,6 +330,9 @@
             <mxPoint x="-17" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yx7a560E9U7T0l9RKrCP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-45" target="yx7a560E9U7T0l9RKrCP-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-45" value="Polling函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
