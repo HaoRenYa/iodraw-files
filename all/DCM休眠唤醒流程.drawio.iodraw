@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-45" value="Polling函数(可调整Polling时间) + 唤醒处理函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="1925" width="150" height="70" as="geometry" />
+          <mxGeometry x="555" y="1925" width="139" height="55" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-58" target="yx7a560E9U7T0l9RKrCP-13">
           <mxGeometry relative="1" as="geometry" />
