@@ -309,7 +309,7 @@
             <mxPoint x="31" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-45" value="Polling函数(可调整Polling时间) + 唤醒源处理函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-45" value="Polling函数(可调整Polling时间) + 唤醒处理函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="1925" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-58" target="yx7a560E9U7T0l9RKrCP-13">
@@ -365,6 +365,11 @@
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-83" value="边缘触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-77">
           <mxGeometry x="-0.3296" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yx7a560E9U7T0l9RKrCP-85" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-77">
+          <mxGeometry x="-0.3815" y="8" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
