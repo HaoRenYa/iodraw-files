@@ -334,7 +334,7 @@
           <mxGeometry x="755" y="1500" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-70" value="&lt;b&gt;MCU DeepSleep/Sleep Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="2110" width="140" height="30" as="geometry" />
+          <mxGeometry x="880" y="2110" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-74">
           <mxGeometry relative="1" as="geometry">
