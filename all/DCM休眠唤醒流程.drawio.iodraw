@@ -279,7 +279,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-94" value="进入DeepSleep Mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-93">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-94" value="进入DeepSleep Mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-93">
           <mxGeometry x="-0.1273" relative="1" as="geometry">
             <mxPoint x="26" y="-1" as="offset" />
           </mxGeometry>
@@ -299,7 +299,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-47" value="触发Polling定时中断&lt;br&gt;进入Active Mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-46">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-47" value="触发Polling定时中断&lt;br&gt;进入Active Mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-46">
           <mxGeometry x="-0.3333" y="-4" relative="1" as="geometry">
             <mxPoint x="-53" y="10" as="offset" />
           </mxGeometry>
@@ -315,7 +315,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-50" value="未达到唤醒条件，&lt;div&gt;进入DeepSleep状态&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-49">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-50" value="未达到唤醒条件，&lt;div&gt;进入DeepSleep状态&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-49">
           <mxGeometry x="-0.6687" y="-3" relative="1" as="geometry">
             <mxPoint x="54" y="-6" as="offset" />
           </mxGeometry>
