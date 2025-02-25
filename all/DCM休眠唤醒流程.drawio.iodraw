@@ -335,8 +335,8 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-69" value="ACTIVE MODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="797.5" y="1300" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-70" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="2110" width="60" height="30" as="geometry" />
+        <mxCell id="yx7a560E9U7T0l9RKrCP-70" value="DeepSleep/Sleep Mode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="2110" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
