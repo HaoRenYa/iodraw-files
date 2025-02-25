@@ -303,7 +303,7 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-45" target="yx7a560E9U7T0l9RKrCP-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-50" value="未达到唤醒条件，进入DeepSleep状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-49">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-50" value="未达到唤醒条件，&lt;div&gt;进入DeepSleep状态&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-49">
           <mxGeometry x="-0.6687" y="-3" relative="1" as="geometry">
             <mxPoint x="-32" y="-23" as="offset" />
           </mxGeometry>
@@ -332,7 +332,7 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-66" value="OS/BSW/RTE初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-69" value="ACTIVE MODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-69" value="&lt;b&gt;ACTIVE MODE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="790" y="1410" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-70" value="&lt;b&gt;DeepSleep/Sleep Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
