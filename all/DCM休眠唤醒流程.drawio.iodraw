@@ -268,7 +268,7 @@
           <mxGeometry x="810" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="2100" width="670" height="120" as="geometry" />
+          <mxGeometry x="540" y="2100" width="620" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-42" target="yx7a560E9U7T0l9RKrCP-45">
           <mxGeometry relative="1" as="geometry" />
@@ -330,7 +330,7 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-70" value="&lt;b&gt;DeepSleep/Sleep Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="2110" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-74" value="IO 中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-74" value="GPIO 中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
