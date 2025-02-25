@@ -275,7 +275,7 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-42" target="yx7a560E9U7T0l9RKrCP-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-42" value="使能RTC（GPT）定时器 和 唤醒源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-42" value="使能RTC（GPT）定时器 和 唤醒源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="741" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-44" target="yx7a560E9U7T0l9RKrCP-45">
@@ -354,7 +354,7 @@
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-78" value="唤醒进入&lt;div&gt;Active mode&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-75">
           <mxGeometry x="-0.1937" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-31" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-74" value="GPIO 中断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
