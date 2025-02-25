@@ -272,9 +272,10 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-42" value="使能RTC（GPT）定时器 和 唤醒源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-44" target="yx7a560E9U7T0l9RKrCP-45">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-44" target="yx7a560E9U7T0l9RKrCP-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="910" y="2150" />
               <mxPoint x="700" y="2150" />
               <mxPoint x="700" y="2120" />
               <mxPoint x="630" y="2120" />
