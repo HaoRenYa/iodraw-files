@@ -206,8 +206,8 @@
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-64" value="MCU ACTIVE MODE" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="1190" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-1" value="SBC Enable 5V_1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="1198" width="120" height="30" as="geometry" />
+        <mxCell id="yx7a560E9U7T0l9RKrCP-1" value="SBC Enable VCC5V_1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="1198" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
