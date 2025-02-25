@@ -275,6 +275,8 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-44" target="yx7a560E9U7T0l9RKrCP-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="710" y="2120" />
+              <mxPoint x="750" y="2120" />
               <mxPoint x="750" y="2050" />
               <mxPoint x="630" y="2050" />
             </Array>
@@ -282,7 +284,7 @@
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-47" value="触发Polling定时中断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-46">
           <mxGeometry x="-0.3333" y="-4" relative="1" as="geometry">
-            <mxPoint x="-34" y="68" as="offset" />
+            <mxPoint x="-54" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-44" value="等待Polling中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
