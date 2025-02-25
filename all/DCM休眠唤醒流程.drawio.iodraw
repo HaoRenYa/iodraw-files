@@ -317,7 +317,7 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-44" target="yx7a560E9U7T0l9RKrCP-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-47" value="触发100ms定时中断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-46">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-47" value="触发Polling定时中断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yx7a560E9U7T0l9RKrCP-46">
           <mxGeometry x="-0.3333" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
