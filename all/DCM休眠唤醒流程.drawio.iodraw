@@ -197,11 +197,17 @@
             <mxPoint x="14" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yx7a560E9U7T0l9RKrCP-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KcgKAmYEJfjYX5Cx_ani-62" target="KcgKAmYEJfjYX5Cx_ani-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-62" value="SBC ACTIVE MODE" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KcgKAmYEJfjYX5Cx_ani-64" value="MCU ACTIVE MODE" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="1190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yx7a560E9U7T0l9RKrCP-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="1198" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
