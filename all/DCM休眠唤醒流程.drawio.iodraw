@@ -357,9 +357,9 @@
           <mxGeometry x="564.5" y="1551" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-69" value="&lt;b&gt;MCU ACTIVE MODE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="706" y="1551" width="125" height="20" as="geometry" />
+          <mxGeometry x="700" y="1540.5" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-70" value="&lt;b&gt;MCU DEEPSLEEP Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-70" value="&lt;b&gt;MCU DEEPSLEEP MODE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="724" y="2100" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.187;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-74" target="yx7a560E9U7T0l9RKrCP-45">
