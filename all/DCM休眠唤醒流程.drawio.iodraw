@@ -268,7 +268,7 @@
             <mxPoint x="315" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-30" value="ICU_WakeUp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-30" value="唤醒源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="1360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-32" value="ECUM_C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
