@@ -255,7 +255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-34" value="判断是否有唤醒源，以及是否需要维持唤醒" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="797.5" y="1706" width="145" height="96" as="geometry" />
+          <mxGeometry x="797.5" y="1723" width="145" height="96" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-38" target="yx7a560E9U7T0l9RKrCP-42">
           <mxGeometry relative="1" as="geometry" />
