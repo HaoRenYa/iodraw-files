@@ -220,7 +220,7 @@
         <mxCell id="yx7a560E9U7T0l9RKrCP-4" value="BootLoad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="579.5" y="1492" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="yx7a560E9U7T0l9RKrCP-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yx7a560E9U7T0l9RKrCP-22">
+        <mxCell id="yx7a560E9U7T0l9RKrCP-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yx7a560E9U7T0l9RKrCP-88" target="yx7a560E9U7T0l9RKrCP-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="684.5" y="1665" as="sourcePoint" />
           </mxGeometry>
@@ -378,7 +378,7 @@
           <mxGeometry x="795" y="1468" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yx7a560E9U7T0l9RKrCP-88" value="&lt;span class=&quot;fontstyle0&quot;&gt;Task任务开始运行&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="564.5" y="1706" width="120" height="60" as="geometry" />
+          <mxGeometry x="563" y="1635" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
